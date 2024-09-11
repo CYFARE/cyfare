@@ -1,37 +1,52 @@
-## Who Am I?
+# Who Am I?
 
-**I'm the owner of CYFARE.NET and a cyber security expert**
+<div align="center">
 
-## Explore Cyfare
+**👨‍💻 I'm the owner of CYFARE.NET and a cyber security expert 🛡️**
 
-### [Malware Query Engine](https://cyfare.net/malwares.php)
+</div>
 
-- 📦 Binaries
-- 🌐 Intel
-- 🔗 URLs
-- 🔍 Hunting
+## 🔍 Explore Cyfare
 
-[Start Query](https://cyfare.net/malwares.php)
+<table>
+  <tr>
+    <td align="center">
+      <h3><a href="https://cyfare.net/malwares.php">Malware Query Engine</a></h3>
+      <p>
+        📦 Binaries<br>
+        🌐 Intel<br>
+        🔗 URLs<br>
+        🔍 Hunting
+      </p>
+    </td>
+    <td align="center">
+      <h3><a href="https://cyfare.net/filescan.php">Cyfare Sandbox</a></h3>
+      <p>
+        🚀 10x Faster<br>
+        </> Custom Yara Rules<br>
+        🛡️ Multiple File Scans<br>
+        ∞ Unlimited Scans
+      </p>
+    </td>
+  </tr>
+</table>
 
-### [Cyfare Sandbox](https://cyfare.net/filescan.php)
+## 💖 Support Me
 
-- 🚀 10x Faster
-- </> Custom Yara Rules
-- 🛡️ Multiple File Scans
-- ∞ Unlimited Scans
+You can support my work via UPI:
 
-[Start Scanning](https://cyfare.net/filescan.php)
+<div align="center">
 
-## FOSS Projects
+**UPI ID: cyfare@upi**
 
-### [HellFire](https://github.com/CYFARE/HellFire)
+<img src="https://raw.githubusercontent.com/CYFARE/cyfare/main/assets/cyfareupi.jpeg" alt="UPI QR Code" width="200"/>
 
-![HellFire](https://cyfare.net/inc/assets/img/index/hellfire.png)
+</div>
 
-Hellfire is a Firefox build optimized for absolute performance. It's a direct compilation of Firefox, emphasizing maximum performance without any source, configuration, or visual modifications.
+---
 
-### [GTPDOOR-V2](https://github.com/CYFARE/GTPDOOR-V2)
+<div align="center">
 
-![GTPDOOR-V2](https://cyfare.net/inc/assets/img/index/gtpdoor.png)
+[🌐 Website](https://cyfare.net) • [🐦 Telegram](https://t.me/CYFARELABS)
 
-GTPDOOR-v2, a Linux malware, targets telecoms using GTP-C for covert control, affecting core network components like SGSN and GGSN, and handles ACLs for precise access.
+</div>
