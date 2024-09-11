@@ -19,6 +19,7 @@
         🔍 Hunting
       </p>
     </td>
+     •
     <td align="center">
       <h3><a href="https://cyfare.net/filescan.php">Cyfare Sandbox</a></h3>
       <p>
