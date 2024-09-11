@@ -10,7 +10,7 @@
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td>
       <h3><a href="https://cyfare.net/malwares.php">Malware Query Engine</a></h3>
       <p>
         📦 Binaries<br>
@@ -19,8 +19,10 @@
         🔍 Hunting
       </p>
     </td>
-     •
-    <td align="center">
+  </tr>
+  <tr><td>&nbsp;</td></tr>
+  <tr>
+    <td>
       <h3><a href="https://cyfare.net/filescan.php">Cyfare Sandbox</a></h3>
       <p>
         🚀 10x Faster<br>
