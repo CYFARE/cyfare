@@ -8,7 +8,7 @@
 
 ## 🔍 Explore Cyfare
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <h3><a href="https://cyfare.net/malwares.php">Malware Query Engine</a></h3>
