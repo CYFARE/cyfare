@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/CYFARE/cyfare/main/assets/cyfare_logo.png" alt="Cyfare Logo" width="200"/>
-</div>
-
 <h1 align="center">Who Am I?</h1>
 
 <p align="center">
