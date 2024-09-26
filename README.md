@@ -6,10 +6,10 @@
 
 <h2 align="center">🔍 Explore Cyfare</h2>
 
-- [x] 📦 [Advance Malware Query Engine](https://cyfare.net/malwares.php)
-- [x] 🛡️ [Advance File & URL Sandbox Scanner](https://cyfare.net/filescan.php)
-- [x] 🚀 [Fast URL Shortener](https://cyfare.net/urlshort.php)
-- [x] 🌐 [Cyfare Hyper Chat (Groq based fastest inferrence LLMs)](https://cyfare.net/chat/)
+- [x] 📦 <b>[Advance Malware Query Engine](https://cyfare.net/malwares.php)</b>
+- [x] 🛡️ <b>[Advance File & URL Sandbox Scanner](https://cyfare.net/filescan.php)</b>
+- [x] 🚀 <b>[Fast URL Shortener](https://cyfare.net/urlshort.php)</b>
+- [x] 🌐 <b>[Cyfare Hyper Chat (Groq based fastest inferrence LLMs)](https://cyfare.net/chat/)</b>
 
 <h2 align="center">💖 Support Me</h2>
 
@@ -26,6 +26,6 @@
 <hr>
 
 <p align="center">
-  <a href="https://cyfare.net">🌐 Website</a> •
-  <a href="https://t.me/CYFARELABS">💬 Telegram</a>
+  </b><a href="https://cyfare.net">🌐 CYFARE.NET</a></b> •
+  </b><a href="https://t.me/CYFARELABS">💬 TELEGRAM</a></b>
 </p>
