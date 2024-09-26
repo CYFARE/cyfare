@@ -6,31 +6,10 @@
 
 <h2 align="center">🔍 Explore Cyfare</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <h3><a href="https://cyfare.net/malwares.php">🦠 Malware Query Engine</a></h3>
-      <p>
-        📦 Binaries<br>
-        🌐 Intel<br>
-        🔗 URLs<br>
-        🔍 Hunting
-      </p>
-    </td>
-  </tr>
-  <tr><td>&nbsp;</td></tr>
-  <tr>
-    <td align="center">
-      <h3><a href="https://cyfare.net/filescan.php">🧪 Cyfare Sandbox</a></h3>
-      <p>
-        🚀 10x Faster<br>
-        </> Custom Yara Rules<br>
-        🛡️ Multiple File Scans<br>
-        ∞ Unlimited Scans
-      </p>
-    </td>
-  </tr>
-</table>
+- [x] 📦 Advance Malware Query Engine
+- [x] 🛡️ Advance File & URL Sandbox Scanner
+- [x] 🚀 Fast URL Shortener
+- [x] 🌐 Cyfare Hyper Chat (Groq based fastest inferrence LLMs)
 
 <h2 align="center">💖 Support Me</h2>
 
