@@ -6,10 +6,10 @@
 
 <h2 align="center">🔍 Explore Cyfare</h2>
 
-- [x] 📦 Advance Malware Query Engine
-- [x] 🛡️ Advance File & URL Sandbox Scanner
-- [x] 🚀 Fast URL Shortener
-- [x] 🌐 Cyfare Hyper Chat (Groq based fastest inferrence LLMs)
+- [x] 📦 [Advance Malware Query Engine](https://cyfare.net/malwares.php)
+- [x] 🛡️ [Advance File & URL Sandbox Scanner](https://cyfare.net/filescan.php)
+- [x] 🚀 [Fast URL Shortener](https://cyfare.net/urlshort.php)
+- [x] 🌐 [Cyfare Hyper Chat (Groq based fastest inferrence LLMs)](https://cyfare.net/chat/)
 
 <h2 align="center">💖 Support Me</h2>
 
