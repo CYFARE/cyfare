@@ -26,6 +26,6 @@
 <hr>
 
 <p align="center">
-  </b><a href="https://cyfare.net">🌐 CYFARE.NET</a></b> •
-  </b><a href="https://t.me/CYFARELABS">💬 TELEGRAM</a></b>
+  <b><a href="https://cyfare.net">🌐 CYFARE.NET</a></b> •
+  <b><a href="https://t.me/CYFARELABS">💬 TELEGRAM</a></b>
 </p>
